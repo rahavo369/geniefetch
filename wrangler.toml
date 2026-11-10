@@ -5,5 +5,5 @@ pages_build_output_dir = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "geniefetch-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "12bbb7b9-246b-4073-9bc3-814aa0de2894"
 migrations_dir = "migrations"
